@@ -1,6 +1,6 @@
 # Write Sync
 
-**Write Sync** is an advanced, multi-user textual document orchestration platform that facilitates simultaneous, co-located editorial modifications. It is engineered with state-of-the-art authentication protocols, leveraging GitHub for identity verification. This platform provides comprehensive document management functionalities while ensuring instantaneous updates through real-time collaboration mechanisms.
+**Write Sync** is an advanced, multi-user textual document orchestration platform that facilitates simultaneous, co-located editorial modifications. (Similar to Google Docs ). It is engineered with state-of-the-art authentication protocols, leveraging GitHub for identity verification. This platform provides comprehensive document management functionalities while ensuring instantaneous updates through real-time collaboration mechanisms.
 
 ## Live Demonstration
 Explore the live application here: [Live Demo](https://abhishek-gupta-writesync.vercel.app/)
